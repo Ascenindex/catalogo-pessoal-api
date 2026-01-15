@@ -1,12 +1,26 @@
-﻿namespace CatalogoConsole;
+﻿using CatalogoConsole.Models;
+using CatalogoConsole.Services;
 
-public class Program
+class Program
 {
-    public static void Main(string[] args)
+    static void Main()
     {
-        Console.WriteLine("Projeto Catalogo - Dia 1: Modelo criado.");
-        // Apenas para teste de compilação
-        var itemTeste = new Models.Item(1, "Item Teste", true);
-        Console.WriteLine($"Item criado: {itemTeste.Name}");
+        IItemService itemService = new ItemService();
+        
+        // Testar o serviço
+        Console.WriteLine("Itens iniciais:");
+        foreach (var item in itemService.GetAllItems())
+        {
+            Console.WriteLine($"- {item.Id}: {item.Name} (Ativo: {item.Status})");
+        }
+        
+        // Adicionar novo item
+        itemService.AddItem(new Item(0, "Novo Item 3", true));
+        
+        Console.WriteLine("\nApós adicionar novo item:");
+        foreach (var item in itemService.GetAllItems())
+        {
+            Console.WriteLine($"- {item.Id}: {item.Name} (Ativo: {item.Status})");
+        }
     }
 }

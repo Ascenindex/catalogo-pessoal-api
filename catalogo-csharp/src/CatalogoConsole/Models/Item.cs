@@ -1,4 +1,5 @@
 ﻿namespace CatalogoConsole.Models;
+
 public class Item
 {
     public int Id { get; set; }
@@ -7,8 +8,8 @@ public class Item
 
     public Item(int id, string name, bool status)
     {
-        this.Id = id;
-        this.Name = name;
-        this.Status = status;
+        Id = id;  
+        Name = name;
+        Status = status;
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\bin\Debug\net8.0\CatalogoConsole.exe
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\bin\Debug\net8.0\CatalogoConsole.deps.json
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\bin\Debug\net8.0\CatalogoConsole.runtimeconfig.json
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\bin\Debug\net8.0\CatalogoConsole.dll
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\bin\Debug\net8.0\CatalogoConsole.pdb
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net8.0\CatalogoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net8.0\CatalogoConsole.AssemblyInfoInputs.cache
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net8.0\CatalogoConsole.AssemblyInfo.cs
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net8.0\CatalogoConsole.csproj.CoreCompileInputs.cache
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net8.0\CatalogoConsole.sourcelink.json
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net8.0\CatalogoConsole.dll
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net8.0\refint\CatalogoConsole.dll
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net8.0\CatalogoConsole.pdb
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net8.0\CatalogoConsole.genruntimeconfig.cache
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net8.0\ref\CatalogoConsole.dll

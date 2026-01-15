@@ -13,3 +13,4 @@ C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debu
 C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net6.0\CatalogoConsole.pdb
 C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net6.0\CatalogoConsole.genruntimeconfig.cache
 C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net6.0\ref\CatalogoConsole.dll
+C:\Users\felip\catalogo-pessoal-api\catalogo-csharp\src\CatalogoConsole\obj\Debug\net6.0\CatalogoConsole.sourcelink.json
